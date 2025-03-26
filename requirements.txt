@@ -1,2 +1,3 @@
 openpyxl
 bs4
+dotenv
