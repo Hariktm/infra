@@ -2080,7 +2080,7 @@ def Analyze_Excel_Status(uploaded_files):
 
 # Main Streamlit App
 def main():
-    st.title("Multiple Excel Files Upload and Display")
+    
 
     # Sidebar for file upload and analysis
     st.sidebar.title("Excel File Analysis Veridia")
