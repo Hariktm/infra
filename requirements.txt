@@ -1,2 +1,2 @@
 openpyxl
-BeautifulSoup
+bs4
