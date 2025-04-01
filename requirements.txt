@@ -2,3 +2,4 @@ openpyxl
 bs4
 dotenv
 aiohttp
+xlsxwriter
